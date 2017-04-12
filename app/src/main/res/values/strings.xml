@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Congratulations</string>
+    <string name="congratulations">Congratulations for taking a road to become Android apps developer!</string>
+    <string name="good_luck">Good Luck!</string>
+    <string name="sans_serif_light">sans-serif-light</string>
 </resources>
